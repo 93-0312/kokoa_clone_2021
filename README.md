@@ -1,4 +1,3 @@
 # Kokoa Clone 2021
 
-CSS got so much better!
-Good luck!
+HTML & CSS are so much fun!
